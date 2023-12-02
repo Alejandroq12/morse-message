@@ -2,7 +2,7 @@
 
 <a name="readme-top"></a>
 <div align="center">
-    <img src="morse.png" alt="logo" width="700"  height="auto" />
+    <img src="ruby-logo.png" alt="logo" width="700"  height="auto" />
   <br/>
   <h3><b>Morse Message</b></h3>
 </div>
